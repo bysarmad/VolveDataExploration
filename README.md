@@ -16,6 +16,5 @@ This notebook allows one to:
 
 Equinor released Volve dataset without any preprocessing. This makes working with real-time data difficult. This initiated an effort to convert WITSML files into CSV files, which are considered a basic standard in Data Science.
 
-Pre-processed real-time drilling dataset, originally provided as WITSML files as a part of Equinor's Volve dataset, is available at webpages of University of Stavanger at http://www.ux.uis.no/~atunkiel/.
-
+Pre-processed real-time drilling dataset, originally provided as WITSML files as a part of Equinor's Volve dataset. Please contact me if you need data. I will send you 2 wells F9ADepth and F9ATime data.
 All code is provided as-is under Creative Commons (CC BY-NC-SA 4.0) license.
